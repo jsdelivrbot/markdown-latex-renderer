@@ -11,7 +11,7 @@ Create a `markdownLaTeXRenderer.json` file in your `.vscode` folder as follows:
 ```json
 {
     "imagesFolderName": "images",
-    "imagesUrlPreffix": "https://rawgit.com/agurz/Markdown-LaTeX-Renderer/master/example/"
+    "imagesUrlPreffix": "https://cdn.jsdelivr.net/gh/agurz/Markdown-LaTeX-Renderer/example/"
 }
 ```
 
